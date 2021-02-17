@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RucoySlayerServer">
+    <output-path>$PROJECT_DIR$/out/artifacts/RucoySlayerServer</output-path>
+    <root id="archive" name="RucoySlayerServer.jar">
+      <element id="module-output" name="RucoyServer" />
+    </root>
+  </artifact>
+</component>
